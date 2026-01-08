@@ -18,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/ayush-raj-574a9b257/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Ayush Raj</h1>
-          <p>AI & ML Engineer</p>
+          <p>4th Year Engineering Student</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/Eivor1000" target="_blank" rel="noreferrer"><GitHubIcon/></a>

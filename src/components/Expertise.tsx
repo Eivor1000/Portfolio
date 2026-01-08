@@ -33,7 +33,6 @@ const labelsSecond = [
 
 const labelsThird = [
     "Python",
-    "C++",
     "LangChain",
     "Groq LLM API",
     "Pandas",
